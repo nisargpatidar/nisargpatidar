@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nisargpatidar
 - 👀 I’m interested in coding and helping others
-- 🌱 I’m currently learning Algorithm Analysis and Ciruit
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on C++ projects
 - 📫 How to reach me: email: uornisargpatidar@gmail.com
 
